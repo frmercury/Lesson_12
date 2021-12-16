@@ -3,3 +3,4 @@ public class DeluxeTobago extends BoardGame{
         System.out.println("Заказ на изготовление настольной игры \"TOBAGO Deluxe Edition\" принят");
     }
 }
+
