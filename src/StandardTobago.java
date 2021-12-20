@@ -3,3 +3,4 @@ public class StandardTobago extends BoardGame{
         System.out.println("Заказ на изготовление настольной игры \"TOBAGO Standard Edition\" принят");
     }
 }
+
